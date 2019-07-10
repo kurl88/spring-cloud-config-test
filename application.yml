@@ -1,11 +1,6 @@
-spring:
-    application:
-        name: microservicecloud-config-atguigu-dev
-    profiles: dev
 ---
 spring:
     application:
         name: microservicecloud-config-atguigu-test
     profiles: test
-#  请保存为UTF-8格式
  
